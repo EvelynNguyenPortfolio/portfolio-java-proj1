@@ -1,20 +1,5 @@
-<h1>Hi! My name is Evelyn Nguyen! <br/>
-<h2>Java Projects:</h2>
+<h1>Java Project 1<br/>
+<h2>Description:</h2>
 
-- <b>Project 1</b>
-  - [Encoder/Decoder Program]()
-- <b>Project 2</b>
-  - [Library Database/Catalogue Program]()
-- <b>Project 3</b>
-  - [Airplane Seat Reservation Program]()
-- <b>Project 4</b>
-  - [Airline Finder Program]()  
-
-<h2>Technical Skills:</h2>
-
-- <b>Software(s): Microsoft Word, Microsoft Excel, Microsoft Powerpoint, Canvas, IntelliJ IDEA</b>
-
-- <b>Programming Language(s): Java</b>
-
-<h2>Connect with me:</h2>
-- <b>[Evelyn Nguyen | LinkedIn](https://www.linkedin.com/in/evelyn-nguyen-cs/) <b>
+- <b>This program acts as an encoder/decoder. Using JAVA I/O, the program allows users to import an encryption code to encode and decode inputted String messages. These encoded and decoded messages are then recorded and exported into text files for the user to review.</b>
+  - (Java I/O and Exception Handling)
