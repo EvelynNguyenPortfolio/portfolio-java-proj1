@@ -4,7 +4,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 //assistance citation: Professor Shields helped me code the encryption method to take care of spaces by suggesting I create ArrayList alphabet
 
-public class Project3
+public class Project1
 {
     public static void main(String[] args)
     {
